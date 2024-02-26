@@ -13,7 +13,7 @@ print(resultado)
 
 
 # Imprimir un mensaje en la consola
-print("Hola, mundo!")
+print("Hola, mundoooooooo!")
 
 # Sumar dos números
 numero1 = 10
