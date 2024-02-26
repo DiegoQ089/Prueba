@@ -1,3 +1,17 @@
+import random
+
+def generar_y_verificar_paridad():
+    numero_aleatorio = random.randint(1, 100)
+    
+    if numero_aleatorio % 2 == 0:
+        return f"El número aleatorio {numero_aleatorio} es par."
+    else:
+        return f"El número aleatorio {numero_aleatorio} es impar."
+
+resultado = generar_y_verificar_paridad()
+print(resultado)
+
+
 # Imprimir un mensaje en la consola
 print("Hola, mundo!")
 
