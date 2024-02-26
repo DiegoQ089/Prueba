@@ -9,4 +9,5 @@ resultado = fibonacci(10)
 print("Los primeros diez números de la serie de Fibonacci son:", resultado)
 
 
-print("quiiero entender como funciona la conexion api, otra vez quiero intentar esta frustracion")
+print("quiiero entender como funciona la conexion api, otra vez quiero intentar esta frustracion son bastantes intentos")
+print(" nose ")
