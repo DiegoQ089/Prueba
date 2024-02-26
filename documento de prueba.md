@@ -18,10 +18,11 @@ print("Hola, mundoooooooo!")
 # Sumar dos números
 numero1 = 10
 numero2 = 20
-suma = numero1 + numero2
+numero3 = 3
+suma = numero1 + numero2 + numero3
 
 # Imprimir el resultado de la suma
-print("La suma de", numero1, "y", numero2, "es", suma)
+print("La suma de ", numero1, " y ", numero2, " y " , numero3 , " es ", suma)
 
 # Pedir un nombre al usuario
 nombre = input("¿Cómo te llamas? ")
