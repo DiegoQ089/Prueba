@@ -10,4 +10,4 @@ print("Los primeros diez números de la serie de Fibonacci son:", resultado)
 
 
 print("quiiero entender como funciona la conexion api, otra vez quiero intentar esta frustracion son bastantes intentos")
-print(" elimino esto agrego esto titu AAAAAAAAAAAAAAA")
+print(" elimino esto agrego esto tita sisas")
