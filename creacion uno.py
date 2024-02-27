@@ -11,5 +11,5 @@ print("Los primeros diez números de la serie de Fibonacci son:", resultado)
 
 print("quiiero entender como funciona la conexion api, otra vez quiero intentar esta frustracion son bastantes intentos")
 print(" elimino esto agrego esto tita sisas ", "io quiero que funcione good")
-print(" quitotodo y osol oquiero unp poc de cafe amamante loko iooooo aaaa")
+print(" quitotodo y osol oquiero unp poc de cafe amamante loko iooooo aaaa tututut tuuttuutu utu ut utiuitruiruti ")
 
