@@ -12,5 +12,5 @@ print("Los primeros diez números de la serie de Fibonacci son:", resultado)
 print("Esto es una prueba1")
 print("Esto es una prueba2")
 print("Esto es una prueba3")
-print("Esto es una prueba4 no se o niefni")
+print("Esto es una prueba6")
 
